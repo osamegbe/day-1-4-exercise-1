@@ -6,6 +6,9 @@ b = input("b: ")
 ####################################
 #Write your code below this line 👇
 
+c = a
+a = b
+b = c
 
 
 
